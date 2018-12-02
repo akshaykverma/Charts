@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Machines>
+	<eosMachine1>
+		<data parameter="parameter1" value="65"/>
+		<data parameter="parameter2" value="59"/>
+		<data parameter="parameter3" value="90"/>
+		<data parameter="parameter4" value="81"/>
+		<data parameter="parameter5" value="56"/>
+		<data parameter="parameter6" value="55"/>
+		<data parameter="parameter7" value="40"/>
+	</eosMachine1>
+	<eosMachine2>
+		<data parameter="parameter1" value="28"/>
+		<data parameter="parameter2" value="48"/>
+		<data parameter="parameter3" value="40"/>
+		<data parameter="parameter4" value="19"/>
+		<data parameter="parameter5" value="96"/>
+		<data parameter="parameter6" value="27"/>
+		<data parameter="parameter7" value="100"/>
+	</eosMachine2>
+</Machines>

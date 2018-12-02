@@ -1,0 +1,12 @@
+<div class="row graph-div">
+    <div class="col-md-10 col-md-offset-1">
+        <div style="display: block">
+          <canvas baseChart
+                  [datasets]="radarChartData"
+                  [labels]="radarChartLabels"
+                  [chartType]="radarChartType"
+                  (chartHover)="chartHovered($event)"
+                  (chartClick)="chartClicked($event)"></canvas>
+        </div>
+  </div>
+</div>
